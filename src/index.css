@@ -1,0 +1,38 @@
+.row {
+  display: flex;
+  flex-direction: row;
+}
+
+.ht-100 {
+  height: 100%;
+}
+
+.wd-100 {
+  width: 100%;
+}
+
+.wd-25 {
+  width: 25%;
+}
+
+.wd-50 {
+  width: 50%;
+}
+
+.column {
+  display: flex;
+  flex-direction: column;
+}
+
+.align-center-center {
+  justify-content: center;
+  align-items: center;
+}
+
+.pad-8 {
+  padding: 8px;
+}
+
+.gap-8 {
+  gap: 8px;
+}

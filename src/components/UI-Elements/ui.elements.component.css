@@ -1,0 +1,12 @@
+.elements{
+    height: 100px;
+    background-color: #F6F09F;
+    font-weight: 800;
+    margin-bottom: 4px;
+}
+
+.elements-container{
+    display: grid;
+    grid-template-columns: auto auto;
+    gap: 4px;
+}

@@ -1,0 +1,11 @@
+.btn {
+  text-decoration: none;
+  border: none;
+  input {
+    border: none;
+    text-decoration: none;
+    outline: none;
+    border-bottom: solid 2px;
+    background-color: none;
+  }
+}
